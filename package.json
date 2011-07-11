@@ -1,9 +1,9 @@
 {
     "name": "mxr-vim", 
     "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
-    "author": "", 
+    "author": "Jez Ng", 
     "version": "0.1", 
     "fullName": "mxr-vim", 
     "id": "jid1-qzNfOMbLIgXCgw", 
-    "description": "a basic add-on"
+    "description": "Integrate MXR with vim"
 }
